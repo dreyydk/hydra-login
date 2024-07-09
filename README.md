@@ -14,7 +14,7 @@ This repository contains the source code for a login page designed for Hydra, a 
 
 ## Testing
 
-To view the login page, simply click on the link:
+To view the login page, simply click on the link: https://hydra-loginhydra-login.vercel.app
 
 ## Customization
 
