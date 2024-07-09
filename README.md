@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hydra Login Page
 
-## Getting Started
+This repository contains the source code for a login page designed for Hydra, a fictional cybersecurity company.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Clean and Modern Design:** The page utilizes a clean and modern aesthetic, with a dark color scheme that emphasizes the cybersecurity theme.
+- **Responsive Design:** The login page is responsive and adapts seamlessly to different screen sizes and devices.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies Used
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js:** A React framework for building fast, scalable, and SEO-friendly web applications.
+- **HTML, CSS, TypeScript:** The core web technologies used to create the structure, style, and functionality of the landing page.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Testing
 
-## Learn More
+To view the login page, simply click on the link:
 
-To learn more about Next.js, take a look at the following resources:
+## Customization
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The login page can be easily customized to reflect your specific needs. You can modify the content, images, and styling according to your preferences.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contributions
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Contributions to this project are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
